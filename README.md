@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Richard Leighton
 - 👀 I’m interested in music, video games, web development, and religious studies.
-- 🌱 I’m currently learning Python and studying for my A+.
+- 🌱 I’m currently learning Python and working as a Substance use Recovery Support Specialist.
 - 📫 How to reach me : spitflame209@gmail.com
 <!---
 spitflame209/spitflame209 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
